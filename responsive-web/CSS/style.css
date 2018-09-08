@@ -99,6 +99,11 @@ span.loan-promotion span {
     margin-right: 4%;
 }
 
-button.btn.waves-effect.waves-light.col.s6.center {
+button.btn.waves-effect.waves-light.col.s12.center {
     margin-top: 2%;
+    font-size: 90%;
+}
+
+main.container {
+    margin-left: -1.5%;
 }
