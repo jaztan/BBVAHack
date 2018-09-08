@@ -1,0 +1,32 @@
+{
+  "name": "reto-qr-bbva-hack",
+  "version": "1.0.0",
+  "description": "Reto QR para micronegocios afiliados a BBVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YocelinGR/BBVAHack.git"
+  },
+  "keywords": [
+    "API",
+    "BBVA",
+    "QR",
+    "code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YocelinGR/BBVAHack/issues"
+  },
+  "homepage": "https://github.com/YocelinGR/BBVAHack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "faker": "^4.1.0",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
