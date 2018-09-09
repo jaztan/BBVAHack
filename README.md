@@ -59,10 +59,27 @@ Pese a que las empresas mexicanas registran un alto porcentaje de inclusión en 
 El estudio elaborado por el Instituto Nacional de Estadística y Geografía (INEGI), precisó que 32.5% de las unidades económicas mexicanas cuentan con un sistema de cobro con tarjeta.
 
 
-
-
-
  [fuente de consulta Forbes agosto 22, 2017]()<https://www.forbes.com.mx/solo-3-de-cada-10-negocios-en-mexico-aceptan-pago-con-tarjeta/>
+
+ # Bancomer ofrece una Solucion 
+
+Tomando en cuenta la información anterior hemos creado una alternativa para las microempresas que aún no estan asociadas a la Banca.
+
+De esa gran área de oportunidad que se ha detectado ha nacido _B Pay_ ,quien brindara la oportunidad de recibir pagos con tarjeta ,medianta el uso de QR ,permitiendo un proceso agil tanto para el micronegocio como para el cliente.
+
+Ademas de que el micronegocio tendra la oportunidad de crecer tanto en nivel tecnologico,como a nivel económico.
+
+B Pay es una aplicacion web,pensada en los usuarios que manejan telefonos de baja gama,en los cuales su telefono no soporta la aplicacion nativa pero se ha pensado en la inclusion permitiendoles acceder desde cual buscador web.
+
+Los negocios que  implementaran esta forma de pago contaran con este logo.
+
+
+![logo](imagenes/logo.png)
+
+
+
+
+
 
 # Ventajas de la banca electronica
 
