@@ -126,4 +126,15 @@ _La innovación se encuentra fuertemente ligada a este proceso de transformació
  <https://www.bbva.com/es/internet-banca-mexico/>
 
 
+ - Todo este proyecto fue realizado por :
+ - Yocelin Garcia Romero encargada del aréa :node.js y express.
+
+ - Florencia Silva Olvera encargada del aréa:Maquetado de vistas.
+
+ - Diana Esmeralda  Nava Garcia encargada de :Firebase y maquetado de vistas
+ - Mirian Ivonne Garcia Hernandez encargada de: codigo QR
+ - Jazmin Tania Reyes Guzman encargada de el aréa de :User Experience.
+ - Mike Nieva encargado de el areá de :Scrum Master
+
+
  
