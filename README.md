@@ -84,11 +84,18 @@ _La innovación se encuentra fuertemente ligada a este proceso de transformació
 ![graficabanca](imagenes/graficabanca.png)
 
 
- ![Fuente de consulta Condusef 8 octubre 2012]()
+
+ Fuente de consulta Condusef 8 octubre 2012
+
  <https://www.condusef.gob.mx/Revista/index.php/usuario-inteligente/servicios-financieros/252-dale-direccion-a-tu-negocio>
 
- ![Fuente de consulta BBVA]()
+ Fuente de consulta BBVA
+
 
  <https://www.bbva.com/es/mexico-mas-competitivo-banca-digital-estados-unidos-brasil/>
 
+
  <https://www.bbva.com/es/internet-banca-mexico/>
+
+
+ 
