@@ -1,9 +1,10 @@
 
-#  Simplificacion del proceso de pago con QR
+#  Simplificación del proceso de pago con QR
 
 ###  Un poco de historia.
 
-Los códigos QR fueron creados **en 1994 por Denso Wave, subsidiaria de Toyota**, y su nombre viene del inglés **quick response**, o  respuesta rápida, ya que el objetivo de sus creadores era inventar un código que se leyese de manera rápida. Los códigos QR son muy populares en Japón, de hecho, son el código bidimensional más popular en el país nipón.
+Los códigos QR fueron creados **en 1994 por Denso Wave, subsidiaria de Toyota**, y su nombre viene del inglés **quick response**, o  respuesta rápida, ya que el objetivo de sus creadores era inventar un código que se leyese de manera rápida.
+Los códigos QR son muy populares en Japón, de hecho, son el código bidimensional más popular en el país nipón.
 
 Inicialmente, fueron usados para registrar repuestos en el área de fabricación de vehículos, pero poco a poco, y más aún con la aparición y la popularización de los Smartphones y tablets, se han ido extendiendo más.
 
@@ -13,12 +14,13 @@ Inicialmente, fueron usados para registrar repuestos en el área de fabricación
 
 Las siglas QR provienen de **“Quick Response”**, y significan literalmente “respuesta rápida”. La principal diferencia de los códigos QR con los demás tipos de códigos de barras, reside en su accesibilidad. Tan sólo se necesita un teléfono móvil con captura de imágenes  y con software lector de códigos QR para acceder a la información encriptada en un dichos códigos. 
 
+
 **Estos códigos surgieron en Japón a mediados de los 90 y han ido ganando en popularidad en todo el mundo en los últimos años con la llegada de los “smartphones”**
 
 ## Promocionando tu negocio utilizando códigos QR
-[ ] Los códigos QR son muy versátiles y pueden ser colocados en  cualquier sitio, desde en tus tarjetas de presentación , hasta al lado del logotipo publicitario de tu empresa.
+- Los códigos QR son muy versátiles y pueden ser colocados en  cualquier sitio, desde en tus tarjetas de presentación , hasta al lado del logotipo publicitario de tu empresa.
 
-[ ] Escaneando el código, cualquier persona puede acceder a tu página web, a los datos de tu compañía o a alguna promoción especial de tus productos. 
+- Escaneando el código, cualquier persona puede acceder a tu página web, a los datos de tu compañía o a alguna promoción especial de tus productos. 
 
 [fuente de consulta web node 02/12/2011]()
 
@@ -31,16 +33,16 @@ Las siglas QR provienen de **“Quick Response”**, y significan literalmente �
  
  dice a Forbes México Marcelo Fondacaro, director comercial de VeriTran, una firma argentina líder en soluciones de banca digital.
   
- >> **Las transacciones digitales basadas en wallets o apps de teléfonos inteligentes adquieren tracción en América Latina y permiten que millones de usuarios, antes marginados de esos servicios, se sumen a la banca.**
+ "**Las transacciones digitales basadas en wallets o apps de teléfonos inteligentes adquieren tracción en América Latina y permiten que millones de usuarios, antes marginados de esos servicios, se sumen a la banca.**"
 
- >> *“Si pensamos sólo en aquellos que tienen tarjeta , lo que hacemos es ofrecer un medio de pago para una cierta clase de gente, pero cuando los gobiernos empiezan a bajar en la pirámide y dan servicios a otro tipo de personas, por ejemplo, **métodos de pago digital, se da una inclusión social**.”*
+  *“Si pensamos solo en aquellos que tienen tarjeta, lo que hacemos es ofrecer un medio de pago para una cierta clase de gente, pero cuando los gobiernos empiezan a bajar en la pirámide y dan servicios a otro tipo de personas, por ejemplo, **métodos de pago digital, se da una inclusión social**.”*
 
  ### Ese proceso de adopción, si bien va andando, aún tiene mucho camino por recorrer.
 
 
- >>  _“Lo primero es la inclusión, los gobiernos deben emprender acciones que sean inclusivas, **tienen que sumar a las personas a los procesos de forma digital”_.
+  _“Lo primero es la inclusión, los gobiernos deben emprender acciones que sean inclusivas, **tienen que sumar a las personas a los procesos de forma digital”_.
  
->> _Lo siguiente que se necesita es un ecosistema que incluya a quienes adquieren la transacción, los pequeños negocios, “la mayoría de los proyectos piensan en el usuario final pero no consideran al que cobra, cuando armas un ecosistema serio de aceptación de pagos, ahí empezará a reducirse el efectivo”,_
+ _Lo siguiente que se necesita es un ecosistema que incluya a quienes adquieren la transacción, los pequeños negocios, “la mayoría de los proyectos piensan en el usuario final pero no consideran al que cobra, cuando armas un ecosistema serio de aceptación de pagos, ahí empezará a reducirse el efectivo”,_
 
 dice Fondacaro.
 
@@ -58,10 +60,10 @@ El estudio elaborado por el Instituto Nacional de Estadística y Geografía (INE
 
  [fuente de consulta Forbes agosto 22, 2017]()<https://www.forbes.com.mx/solo-3-de-cada-10-negocios-en-mexico-aceptan-pago-con-tarjeta/>
 
- # Bancomer ofrece una Solución 
+ ## Bancomer ofrece una Solución 
 
 
->> “ La venta promedio con tarjeta de pago es de 30 por ciento a 80 por ciento más alta que la venta promedio en efectivo”, detalla MasterCard.
+ “ La venta promedio con tarjeta de pago es de 30 por ciento a 80 por ciento más alta que la venta promedio en efectivo”, detalla MasterCard.
 
 Según las cifras más recientes del Banco de México, en el país hay 23.4 millones de tarjetas de crédito emitidas para personas físicas y son uno de los medios de pago preferidos por los consumidores.
 
@@ -97,7 +99,7 @@ Es una aplicacion web,pensada en los usuarios que manejan telefonos de baja gama
  _La banca electrónica es un servicio que te permite hacer transacciones de forma segura a través del portal de internet de tu banco sin necesidad de ir a la sucursal bancaria._
 ![grafica](imagenes/grafica.png)
 
->> _La banca en línea, en los últimos años, ha crecido con rapidez. Durante el mes de mayo, México registró 14,2 millones de personas en internet, representando el 23.1% de la audiencia digital total del país. Es decir, México está en camino hacia la madurez en el tema de mercados financieros, lo que implica un elevado uso de plataformas digitales para transacciones financieras._
+ _La banca en línea, en los últimos años, ha crecido con rapidez. Durante el mes de mayo, México registró 14,2 millones de personas en internet, representando el 23.1% de la audiencia digital total del país. Es decir, México está en camino hacia la madurez en el tema de mercados financieros, lo que implica un elevado uso de plataformas digitales para transacciones financieras._
 
 ### _Banca por internet_
 
